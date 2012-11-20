@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  product_id: 1
+  name: MyString
+  quantity: 1
+  price: 9.99
+  section: MyString
+  rental_id: 1
+  description: MyText
+
+two:
+  product_id: 1
+  name: MyString
+  quantity: 1
+  price: 9.99
+  section: MyString
+  rental_id: 1
+  description: MyText
